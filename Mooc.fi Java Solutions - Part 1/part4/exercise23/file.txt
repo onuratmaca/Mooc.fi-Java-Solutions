@@ -1,0 +1,3 @@
+Hello, world!
+
+This exercise was just to create this .txt file
